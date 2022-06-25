@@ -1,0 +1,42 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  max-width: 500px;
+  margin: 0px auto;
+}
+
+h1 {
+  margin: 8px 0;
+  font-size: 36px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+#rules-link {
+  position: absolute;
+  right: 1em;
+  top: 0.5em;
+}
+
+.correct,
+.present,
+.absent {
+  color: #fff !important;
+}
+
+.correct {
+  background-color: #65c45d !important;
+}
+
+.present {
+  background-color: #dde753 !important;
+}
+
+.absent {
+  background-color: #e28d7e !important;
+}
