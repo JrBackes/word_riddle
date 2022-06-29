@@ -17,7 +17,7 @@ Esse projeto elabora um jogo de palavras que consiste em encontar a palavra corr
 ### Passos para execuçao da aplicaçao:
 - Git Clone - npm create vite@latest
 - Caso não tenha o Vite instalado, ele irá solicitar instalação.
-- Após isso é só acessar a pasta com o comando cd "caminho do projeto" e git clone "link do projeto"
+- Após isso é só acessar a pasta com o comando cd "caminho do projeto" e git clone https://github.com/JrBackes/word_riddle
 
 ### Link de acesso:
 http://127.0.0.1:3000
