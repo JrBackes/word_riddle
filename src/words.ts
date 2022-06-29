@@ -230,6 +230,6 @@ const answers = [
   'acudo',
   'adega'
   ]
-]
+
 
 export const allWords = [...answers]
