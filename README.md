@@ -1,7 +1,7 @@
 
 <h1> CHARADA </h1>
 
-Esse projeto elabora um jogo de palavras que consiste em encontar a palavra correta com o menor numero de tentativas possiveis, você terá no máximo 6 tentativas antes que o jogo encerre.
+Esse projeto elabora um jogo de palavras que consiste em encontar a palavra correta com o menor numero de tentativas possiveis, você terá no máximo 6 tentativas antes que o jogo encere.
 
 ### Desenvolvedores
 - Paulo Everaldo Backes Junior;
