@@ -11,7 +11,6 @@ Esse projeto elabora um jogo de palavras que consiste em encontar a palavra corr
 ### Requisitos
 - Vite;
 - Vue;
-- Git bash (opcional);
 - Habilitar o processamento de anotaçoes;
 
 ### Passos para execuçao da aplicaçao:
