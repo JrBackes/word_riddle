@@ -24,5 +24,7 @@ Esse projeto elabora um jogo de palavras que consiste em encontar a palavra corr
 - CSS;
 - HTML;
 
+### Apresentação 
 
+https://asavbrm.sharepoint.com/:v:/r/sites/2022_1864344_1_8-GB-EdersonFelipeePaulo/Documentos%20Compartilhados/Grava%C3%A7%C3%B5es/Exibir%20Apenas/Apresenta%C3%A7%C3%A3o-20220701_204948-Grava%C3%A7%C3%A3o%20de%20Reuni%C3%A3o.mp4?csf=1&web=1&e=lL856t
 
